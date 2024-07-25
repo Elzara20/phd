@@ -1,0 +1,170 @@
+#1
+sentance = Родившийся 12 июня 1915 года американский банкир , государственный деятель , глобалист и глава дома Рокфеллеров Дэвид Рокфеллер старший ( ) — внук нефтяного магната и первого в истории долларового миллиардера Джона Дэвисона Рокфеллера , основателя Стандарт Ойл , младший брат 41-го вице-президента США Нельсона Рокфеллера и 37-го губернатора Арканзаса Уинтропа О .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Рокфеллеров, дома Рокфеллеров"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"490","completionTokens":"9","totalTokens":"499"},"modelVersion":"07.03.2024"}}
+
+Рокфеллеров, дома Рокфеллеров
+#2
+sentance = По версии следователей , Скрипалей в Великобритании отравили нервно-паралитическим ядом « Новичок » , привезённым во флаконе духов ' Nina Ricci ' .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Скрипалей"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"428","completionTokens":"4","totalTokens":"432"},"modelVersion":"07.03.2024"}}
+
+Скрипалей
+#3
+sentance = В отравлении Скрипалей Лондон обвинил россиян , назвав их сотрудниками ГРУ , скрывающихся под псевдонимами Руслан Боширов и Александр Петров .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?"},"status":"ALTERNATIVE_STATUS_CONTENT_FILTER"}],"usage":{"inputTextTokens":"0","completionTokens":"0","totalTokens":"0"},"modelVersion":""}}
+
+К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?
+#4
+sentance = Ранее Bellingcat и The Insider назвали имя первого подозреваемого в отравлении Скрипалей .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?"},"status":"ALTERNATIVE_STATUS_CONTENT_FILTER"}],"usage":{"inputTextTokens":"0","completionTokens":"0","totalTokens":"0"},"modelVersion":""}}
+
+К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?
+#5
+sentance = Журналисты не смогли установить точное звание Мишкина , однако предполагают , что на момент отравления Скрипалей он имел звание либо подполковника , либо полковника .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?"},"status":"ALTERNATIVE_STATUS_CONTENT_FILTER"}],"usage":{"inputTextTokens":"0","completionTokens":"0","totalTokens":"0"},"modelVersion":""}}
+
+К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?
+#6
+sentance = Напомним , как ранее сообщало ИА REGNUM , при схожих обстоятельствах в США погиб российский ребенок Дмитрий Яковлев , усыновленный семьей Харрисонов .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Семья Харрисонов"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"422","completionTokens":"5","totalTokens":"427"},"modelVersion":"07.03.2024"}}
+
+Семья Харрисонов
+#7
+sentance = Благотворительный фонд Гейтсев поддерживает образовательные и социальные проекты .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Фонд Гейтсев"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"407","completionTokens":"5","totalTokens":"412"},"modelVersion":"07.03.2024"}}
+
+Фонд Гейтсев
+#8
+sentance = Семья Обамы приобрела дом в Вашингтоне за 8,1 млн долларов Барак Обама Бывший президент США Барак Обама с женой Мишель приобрели жильё в Вашингтоне недалеко от Белого дома .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Семья Обамы"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"434","completionTokens":"4","totalTokens":"438"},"modelVersion":"07.03.2024"}}
+
+Семья Обамы
+#9
+sentance = После окончания срока работы на посту президента в январе супруги арендовали особняк в стиле эпохи Тюдоров в престижном районе столицы США — Калорама , где долгое время селились дипломаты , лоббисты и политики .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Супруги"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"437","completionTokens":"3","totalTokens":"440"},"modelVersion":"07.03.2024"}}
+
+Супруги
+#10
+sentance = 9 апреля семья капитана Мура запустила от его имени кампанию по сбору средств для службы здравоохранения на платформе JustGiving .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Семья капитана Мура"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"417","completionTokens":"4","totalTokens":"421"},"modelVersion":"07.03.2024"}}
+
+Семья капитана Мура
+#11
+sentance = В ходе неё он , в частности , прокомментировал отравление Скрипалей и порассуждал о «предательстве Новороссии » .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?"},"status":"ALTERNATIVE_STATUS_CONTENT_FILTER"}],"usage":{"inputTextTokens":"0","completionTokens":"0","totalTokens":"0"},"modelVersion":""}}
+
+К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?
+#12
+sentance = Его супруга — герцогиня Корнуольская получила отрицательный результат на тест .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Супруга."},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"410","completionTokens":"4","totalTokens":"414"},"modelVersion":"07.03.2024"}}
+
+Супруга.
+#13
+sentance = В Татарстане клан Шаймиевых расширяет семейный бизнес Внук бывшего президента - ныне госсоветника Татарстана Минтимера Шаймиева Тимур Шаймиев занял пост генерального директора в нефтедобывающей компании ООО " МНКТ " .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Клан Шаймиевых"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"441","completionTokens":"6","totalTokens":"447"},"modelVersion":"07.03.2024"}}
+
+Клан Шаймиевых
+#14
+sentance = Полиция Бельгии арестовала двух человек по подозрению в подготовке теракта Решение о дальнейшем содержании братьев Х .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"братьев Х"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"414","completionTokens":"3","totalTokens":"417"},"modelVersion":"07.03.2024"}}
+
+братьев Х
+#15
+sentance = Ожидается , что в субботу арестованные братья Х .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"братья Х"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"405","completionTokens":"3","totalTokens":"408"},"modelVersion":"07.03.2024"}}
+
+братья Х
+#16
+sentance = Эмир Катара встретится с членами королевской семьи Эмир Катара шейх Хамад бен Халиф Аль Тани встретится в понедельник с членами королевской семьи и высокопоставленными чиновниками страны на фоне слухов о том , что он намерен передать власть сыну — наследному принцу шейху Тамиму , передает агентство Рейтер со ссылкой на катарский телеканал " Аль-Джазира " .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"с членами королевской семьи"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"474","completionTokens":"5","totalTokens":"479"},"modelVersion":"07.03.2024"}}
+
+с членами королевской семьи
+#17
+sentance = Родившийся 29 июня 1936 года Кигели V — представитель королевской династии этнических тутси ' Abanyiginya ' , управлявшей руандийскими землями с XIV века .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"королевской династии этнических тутси"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"438","completionTokens":"7","totalTokens":"445"},"modelVersion":"07.03.2024"}}
+
+королевской династии этнических тутси
+#18
+sentance = Умер старший представитель дома Романовых князь Дмитрий Романович с Владимиром Путиным во время награждения Орденом Александра Невского 31 декабря 2016 года в Копенгагене ( Дания ) умер старший представитель дома Романовых князь Дмитрий Романович , сообщила его вдова Дорит Ревентлов .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Дома Романовых, князь Дмитрий Романович"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"453","completionTokens":"9","totalTokens":"462"},"modelVersion":"07.03.2024"}}
+
+Дома Романовых, князь Дмитрий Романович
+#19
+sentance = Большинством из потомков императора Николая I , за исключением потомков Владимира Кирилловича , считался Главой Дома Романовых .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Дома Романовых"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"419","completionTokens":"4","totalTokens":"423"},"modelVersion":"07.03.2024"}}
+
+Дома Романовых
+#20
+sentance = Он и его жена носили титул князей императорской крови , который признавался королевской семьей Дании .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"королевской семьей Дании"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"413","completionTokens":"4","totalTokens":"417"},"modelVersion":"07.03.2024"}}
+
+королевской семьей Дании
+#21
+sentance = Президент США встретился с семьей Нельсона Манделы и поговорил по телефону с женой 94-летнего политика Грасой Машел , которая неотлучно находится у больничной постели бывшего президента ЮАР .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Семья Нельсона Манделы, Грасой Машел."},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"436","completionTokens":"13","totalTokens":"449"},"modelVersion":"07.03.2024"}}
+
+Семья Нельсона Манделы, Грасой Машел.
+#22
+sentance = По заявлению Обамы , он поговорил с членами семьи Манделы и связался по телефону с его женой Грасой Машел , которая неотлучно находится у больничной постели 94-летнего политика .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Члены семьи Манделы, женой Грасой Машел."},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"437","completionTokens":"12","totalTokens":"449"},"modelVersion":"07.03.2024"}}
+
+Члены семьи Манделы, женой Грасой Машел.
+#23
+sentance = Накануне Обама пообщался с семьей Манделы .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"семьёй Манделы"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"405","completionTokens":"4","totalTokens":"409"},"modelVersion":"07.03.2024"}}
+
+семьёй Манделы
+#24
+sentance = Директор ФСБ Александр Бортников также уверен , что в подготовке взрыва принимали участие родственники Евлоева .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?"},"status":"ALTERNATIVE_STATUS_CONTENT_FILTER"}],"usage":{"inputTextTokens":"0","completionTokens":"0","totalTokens":"0"},"modelVersion":""}}
+
+К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?
+#25
+sentance = СМИ : Скрипалей отравил Гордон Место отравления Скрипалей В отравлении Сергея и Юлии Скрипаль подозревается 54-летний шпион ФСБ ( КГБ ) с позывным « Гордон » ( Gordon ) , сообщает Daily Mirror со ссылкой на The Sunday People .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?"},"status":"ALTERNATIVE_STATUS_CONTENT_FILTER"}],"usage":{"inputTextTokens":"0","completionTokens":"0","totalTokens":"0"},"modelVersion":""}}
+
+К сожалению, я не могу ничего сказать об этом. Давайте сменим тему?
+#26
+sentance = Пресс-секретарь семьи Бушей сообщил , что экс - президент находится под постоянным наблюдением медиков .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"семьи Бушей"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"413","completionTokens":"4","totalTokens":"417"},"modelVersion":"07.03.2024"}}
+
+семьи Бушей
+#27
+sentance = Бостон взорвали Тамерлан и Джохар Царнаевы из Северного Кавказа 19 апреля 2013 года в пригороде Бостона проходит спецоперация по поимке 19-летнего Джохара Царнаева , подозреваемого в теракте на Бостонском марафоне 15 апреля и в смертельном ранении полицейского на кампусе Массачусетского технологического института 18 апреля .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Тамерлан и Джохар Царнаевы"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"481","completionTokens":"11","totalTokens":"492"},"modelVersion":"07.03.2024"}}
+
+Тамерлан и Джохар Царнаевы
+#28
+sentance = Стефан планировал обратиться к властям города Кембриджа , где братья Царнаевы проживали последние десять лет , за разрешением похоронить Тамерлана на муниципальном кладбище .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Братья Царнаевы"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"429","completionTokens":"6","totalTokens":"435"},"modelVersion":"07.03.2024"}}
+
+Братья Царнаевы
+#29
+sentance = Однако городской управляющий Кембриджа Роберт Хили призвал родных Царнаева не обращаться с такой просьбой : Шумиха , акции протеста и усиленное внимание СМИ к этому погребению негативно отразятся на сложных и сопряженных со стрессом попытках жителей Кембриджа вернуться к мирной жизни .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Родных Царнаева"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"454","completionTokens":"6","totalTokens":"460"},"modelVersion":"07.03.2024"}}
+
+Родных Царнаева
+#30
+sentance = Часть оглашенных сегодня обвинений была предъявлена ему в апреле , после его задержания , однако ныне к ним добавились другие — убийство полицейского и угон автомобиля ( братья Царнаевы захватили автомобиль , пытаясь покинуть Бостон ) .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"братья Царнаевы"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"441","completionTokens":"6","totalTokens":"447"},"modelVersion":"07.03.2024"}}
+
+братья Царнаевы
+#31
+sentance = В тексте обвинения не указывается , что братья Царнаевы были частью какого-либо масштабного террористического заговора или имели прямые контакты с иностранными экстремистами .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Братья Царнаевы"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"427","completionTokens":"6","totalTokens":"433"},"modelVersion":"07.03.2024"}}
+
+Братья Царнаевы
+#32
+sentance = На церемонии присутствовали члены монаршей семьи и федерального правительства Бельгии .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Члены монаршей семьи"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"407","completionTokens":"5","totalTokens":"412"},"modelVersion":"07.03.2024"}}
+
+Члены монаршей семьи
+#33
+sentance = После рождения ребёнка подписанное врачами официальное уведомление под охраной полиции было доставлено в Букингемский дворец королевской семье и семье Миддлтонов .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"королевской семье и семье Миддлтонов"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"424","completionTokens":"9","totalTokens":"433"},"modelVersion":"07.03.2024"}}
+
+королевской семье и семье Миддлтонов
+#34
+sentance = Семья Маккалоу часто переезжала , осев в конечном итоге в Сиднее .
+{"result":{"alternatives":[{"message":{"role":"assistant","text":"Семья Маккалоу"},"status":"ALTERNATIVE_STATUS_FINAL"}],"usage":{"inputTextTokens":"412","completionTokens":"5","totalTokens":"417"},"modelVersion":"07.03.2024"}}
+
+Семья Маккалоу
